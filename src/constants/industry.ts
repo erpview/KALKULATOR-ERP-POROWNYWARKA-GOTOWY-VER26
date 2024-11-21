@@ -1,0 +1,20 @@
+export const INDUSTRY_OPTIONS = [
+  'Administracja publiczna i obronność',
+  'Budownictwo',
+  'Dostawa energii i gazu',
+  'Działalność badawczo naukowa',
+  'Edukacja',
+  'Finanse i ubezpieczenia',
+  'Gospodarka wodna i odpady',
+  'Górnictwo i wydobywanie',
+  'Informatyka i telekomunikacja',
+  'Media i komunikacja',
+  'Nieruchomości',
+  'Opieka zdrowotna',
+  'Przemysł chemiczny i farmaceutyczny',
+  'Przemysł elektromaszynowy i elektrotechniczny',
+  'Przemysł odzieżowy i tekstylny',
+  'Przemysł paliwowy i energetyka',
+  'Przemysł spożywczy',
+  'Rekreacja, turystyka, gastronomia'
+];

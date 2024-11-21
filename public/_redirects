@@ -1,0 +1,9 @@
+/*  /index.html  200
+
+# Specific routes
+/wdrozenie-erp              /wdrozenie-erp/index.html     200
+/koszt-wdrozenia-erp        /koszt-wdrozenia-erp/index.html     200
+/systemy-erp                /systemy-erp/index.html     200
+/porownaj-systemy-erp       /porownaj-systemy-erp/index.html     200
+/admin/login                /admin/login/index.html     200
+/admin/systemy              /admin/systemy/index.html     200
