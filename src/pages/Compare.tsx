@@ -52,18 +52,18 @@ export const Compare: React.FC = () => {
   return (
     <>
       <Helmet>
-        <title>Porównaj systemy ERP | Kalkulator ERP</title>
+        <title>Porównanie systemów ERP - porównywarka ERP | Kalkulator ERP</title>
         <meta 
           name="description" 
           content="Porównaj systemy ERP dostępne w Polsce. Zestawienie funkcjonalności, cen i możliwości najpopularniejszych systemów ERP." 
         />
-        <meta property="og:title" content="Porównaj systemy ERP | Kalkulator ERP" />
+        <meta property="og:title" content="Porównanie systemów ERP - porównywarka ERP | Kalkulator ERP" />
         <meta 
           property="og:description" 
           content="Porównaj systemy ERP dostępne w Polsce. Zestawienie funkcjonalności i możliwości systemów ERP." 
         />
-        <meta property="og:url" content="https://kalkulator-erp.com/porownaj" />
-        <link rel="canonical" href="https://kalkulator-erp.com/porownaj" />
+        <meta property="og:url" content="https://kalkulator-erp.com/porownaj-systemy-erp" />
+        <link rel="canonical" href="https://kalkulator-erp.com/porownaj-systemy-erp" />
       </Helmet>
 
       <DndProvider backend={HTML5Backend}>
