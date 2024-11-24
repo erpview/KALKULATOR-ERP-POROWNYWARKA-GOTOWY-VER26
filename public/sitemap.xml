@@ -3,7 +3,7 @@
   <!-- Calculator (Home) Page -->
   <url>
     <loc>https://kalkulator-erp.com/</loc>
-    <lastmod>2024-02-20</lastmod>
+    <lastmod>2024-11-240</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -11,7 +11,7 @@
   <!-- Implementation Page -->
   <url>
     <loc>https://kalkulator-erp.com/wdrozenie-erp</loc>
-    <lastmod>2024-02-20</lastmod>
+    <lastmod>2024-11-240</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -19,7 +19,7 @@
   <!-- Cost Page -->
   <url>
     <loc>https://kalkulator-erp.com/koszt-wdrozenia-erp</loc>
-    <lastmod>2024-02-20</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -27,7 +27,16 @@
   <!-- Systems Page -->
   <url>
     <loc>https://kalkulator-erp.com/systemy-erp</loc>
-    <lastmod>2024-02-20</lastmod>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
+
+  <!-- Compare Page -->
+  <url>
+    <loc>https://kalkulator-erp.com/porownaj-systemy-erp</loc>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
